@@ -4,4 +4,11 @@ body{
 
 header{
   background-color: #3E6991;
+
+}
+
+
+header img{
+  border-radius: 150px;
+  width: 300px;
 }
