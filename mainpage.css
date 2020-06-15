@@ -65,6 +65,7 @@ header img{
   max-width: 100%;
   height: auto;
 
+
 }
 
 .titles{
@@ -101,3 +102,28 @@ transform: scale(0.9);
   border: 20px;
   border-color: black;
 }
+
+.teaching-block{
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 35px;
+  height: auto;
+  min-height: 100% ;
+  position: relative;
+  display: inline-block;
+}
+
+.teaching-block img{
+  float: right;
+  max-width: 15%;
+  padding: 40px 40px 40px 40px;
+
+}
+ #text-teaching{
+   padding: 15px;
+   font-style: Helvetica,Arial, sans-serif;
+   max-width: 50%;
+   float: left;
+   clear: both;
+ }
