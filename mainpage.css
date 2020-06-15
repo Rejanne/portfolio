@@ -127,3 +127,8 @@ transform: scale(0.9);
    float: left;
    clear: both;
  }
+
+.back{
+  float: left;
+  clear: both;
+}
